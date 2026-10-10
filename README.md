@@ -119,5 +119,3 @@ I'm a BCA graduate specializing in Artificial Intelligence, interested in Python
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
